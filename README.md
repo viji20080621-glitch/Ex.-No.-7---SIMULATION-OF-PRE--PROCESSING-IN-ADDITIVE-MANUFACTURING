@@ -44,11 +44,17 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+## CAD File:
 <img width="1067" height="559" alt="Screenshot 2026-03-11 161915" src="https://github.com/user-attachments/assets/d594c33d-c53f-4599-80a9-c20ad696eca1" />
+## Conversion to STL:
 <img width="1069" height="553" alt="Screenshot 2026-03-11 161929" src="https://github.com/user-attachments/assets/24c1c2c2-b71b-4679-9c8e-bc119e284510" />
+## Orientation:
 <img width="1054" height="555" alt="Screenshot 2026-03-11 161942" src="https://github.com/user-attachments/assets/0ef94e31-e63a-4844-95a6-6467d1d9ae8c" />
+## support Structure:
 <img width="1056" height="551" alt="Screenshot 2026-03-11 161952" src="https://github.com/user-attachments/assets/c2859469-038e-4056-881b-aa57fec28562" />
+## Slicing:
 <img width="1059" height="544" alt="Screenshot 2026-03-11 162001" src="https://github.com/user-attachments/assets/704816bf-5760-4360-8def-3fe58d8a8758" />
+## Path Planning:
 <img width="1076" height="585" alt="Screenshot 2026-03-11 162012" src="https://github.com/user-attachments/assets/e82b52d1-ef43-414f-8a34-5179c0c5fb75" />
 
 ### Name: VIJIYALAKSHMI A
